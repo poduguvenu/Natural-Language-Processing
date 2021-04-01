@@ -4,3 +4,4 @@
 3. Bag of Words
 4. TF-IDF Vectorization
 5. SMS Spam Classification using CountVectorizer and TfidfVectorizer
+6. Word2Vec Implementation
